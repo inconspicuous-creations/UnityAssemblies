@@ -1,0 +1,4 @@
+4.6.5p1:1.9.8.0
+/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.5/UnityEngine.UI.dll
+/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.5/Editor/UnityEditor.UI.dll
+/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll
