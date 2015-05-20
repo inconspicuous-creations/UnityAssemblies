@@ -1,4 +1,4 @@
-5.0.1p3:1.9.9.0
+5.0.2p1:1.9.9.0
 StandaloneOSXIntel
 /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
 /Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll
@@ -7,6 +7,7 @@ StandaloneOSXIntel
 /Applications/Unity/Unity.app/Contents/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 /Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.dll
 /Applications/Unity/Unity.app/Contents/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll
+/Applications/Unity/Unity.app/Contents/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
 /Applications/Unity/Unity.app/Contents/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 /Applications/Unity/Unity.app/Contents/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
 /Applications/Unity/Unity.app/Contents/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
